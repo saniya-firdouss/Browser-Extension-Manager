@@ -32,5 +32,5 @@ If you have any feedback, suggestions, or just want to say hi, feel free to:
 ## 🚀 Live Demo
 
 
-👉 [Live Demo](#)
+👉 [Live Demo](https://saniya-firdouss.github.io/Browser-Extension-Manager/)
 
